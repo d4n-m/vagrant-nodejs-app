@@ -3,6 +3,7 @@ A simple app exposed by a *NodeJS* server provisioned via a *vagrant up* environ
 
 1. Clone the repo:
 	`git clone https://github.com/d4n-m/vagrant-nodejs-app.git`
+	
 	`cd vagrant-nodejs-app/`
 
 2. Make sure you have the latest VirtualBox Guest Addition plugin installed:
