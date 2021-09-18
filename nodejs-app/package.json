@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "cows": "^2.1.1",
+    "dotenv": "^10.0.0",
+    "http": "^0.0.1-security",
+    "jest": "^27.2.0",
+    "nodemon": "^2.0.12",
+    "superb": "^4.0.0"
+  },
+  "name": "primeros-pasos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d4n-m/vagrant-nodejs-app.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d4n-m/vagrant-nodejs-app./issues"
+  },
+  "homepage": "https://github.com/d4n-m/vagrant-nodejs-app.#readme",
+  "description": "A simple app exposed by a *NodeJS* server provisioned via a *vagrant up* environment."
+}
